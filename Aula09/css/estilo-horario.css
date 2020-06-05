@@ -1,0 +1,76 @@
+.subTitulo{
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-shadow: 2px 2px 5px #c6f5f7;
+  color: #213133;
+  border-bottom-style: groove;
+  border-bottom-width: 3px;
+  border-bottom-color: cadetblue;
+}
+
+
+table.horario{
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table.horario tr{
+  border: 1px solid black;
+
+}
+
+table.horario td,
+table.horario th{
+  border: 1px solid black;
+
+}
+
+table.horario th,
+table.horario td{
+  padding: 15px;
+}
+
+
+table.horario th{
+  text-align: left;
+
+}
+
+
+table.horario caption{
+  font-weight: bolder;
+  color: cornflowerblue;
+  text-align: right;;
+  padding-bottom: 10px;
+}
+
+table.horario thead th,
+table.horario tfoot th,
+table.horario tbody th{
+  background-color: royalblue;
+  color: darksalmon;
+  color: antiquewhite;
+  font-weight: lighter;
+  //padding: 5px;
+  border: none;
+}
+
+table.horario tr:nth-child(even){
+  background-color: #EBF0FA;
+}
+
+table.horario tr:nth-child(odd){
+  //background-color: bisque;
+  background-color: #4275A3;
+}
+
+table.horario tr:hover{
+  background-color: gray;
+}
+
+table.horario tr,
+table.horario td,
+table.horario th {
+  /*border: none;*/
+}

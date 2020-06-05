@@ -1,0 +1,68 @@
+/**
+
+  - Prussian blue - #003049
+    - #446e80
+    - #9ec1c8
+  - Maximum red - #d62828
+    - #e25850
+    - #9f1818
+  - Amber - #f77f00
+    - #faa52d
+    - #af4c00
+  - Camel- #cd975c
+    - #dcb377
+    - #8c5b37
+  - Grullo- #a89f80
+    - #504537
+    - #3a2e25
+**/
+
+/* Prussian Blue */
+.cor1{ color: #003049;}
+.bgCor1{background-color: #003049;}
+
+.cor1a{color: #446e80;}
+.bgCor1a{background-color: #446e80;}
+
+.cor1b{color: #9ec1c8;}
+.bgCor1b{background-color: #9ec1c8;}
+
+/* Maximum red */
+.cor2{ color: #d62828;}
+.bgCor2{background-color: #d62828;}
+
+.cor2a{color: #e25850;}
+.bgCor2a{background-color: #e25850;}
+
+.cor2b{color: #9f1818;}
+.bgCor2b{background-color: #9f1818;}
+
+/* Amber */
+.cor3{ color: #f77f00;}
+.bgCor3{background-color: #f77f00;}
+
+.cor3a{color: #faa52d;}
+.bgCor3a{background-color: #faa52d;}
+
+.cor3b{color: #af4c00;}
+.bgCor3b{background-color: #af4c00;}
+
+/* Camel */
+.cor4{ color: #003049;}
+.bgCor4{background-color: #003049;}
+
+.cor4a{color: #446e80;}
+.bgCor4a{background-color: #446e80;}
+
+.cor4b{color: #9ec1c8;}
+.bgCor4b{background-color: #9ec1c8;}
+
+/* Lemon */
+.cor5{ color: #a89f80;}
+.bgCor5{background-color: #a89f80;}
+
+.cor5a{color: #504537;}
+.bgCor5a{background-color: #504537;}
+
+.cor5b{color: #3a2e25;}
+.bgCor5b{background-color: #3a2e25;}

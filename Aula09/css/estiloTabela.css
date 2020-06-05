@@ -1,0 +1,39 @@
+
+.subTitulo {
+
+text-transform: uppercase;
+line-height: 1.5;
+text-shadow:2px 2px 5px #c6f5f7;
+color: #213133;
+border-bottom-style: groove;
+border-bottom-width: 3px;
+border-bottom-color: cadetblue;
+}
+
+  table.zebrada{
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table.zebrada th{
+      background-color: black;
+      color: antiquewhite;
+      font-weight: lighter;
+      padding: 5px;
+  }
+
+  table.zebrada tr{
+      padding: 5px;
+  }
+
+  table.zebrada tr:nth-child(even){
+    background-color: #EBF0FA;
+  }
+
+  table.zebrada tr:nth-child(odd){
+    background-color: #4275A3;
+}
+
+  table.zebrada tr:hover{
+    background-color: aqua;
+  }

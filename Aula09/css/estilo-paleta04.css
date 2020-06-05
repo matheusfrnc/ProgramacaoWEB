@@ -1,0 +1,87 @@
+/**
+
+  - Black Chocolate - #181B14 ; #3D4031 ; #61654E ; #868A6F
+  - Olive Drab - #333025 ; #5F5E49 ; #8C8C6E ; #AFAF8E
+  - Dark Sienna - #46231E ; #7D574A ; #B48B76 ; #DDB59B
+  - Dark Liver - #5A4232 ; #9B8464 ; #DBC696 ; #F4E3AE
+  - Kobicha - #6B3D20 ; #AB7A3F ; #EAB75F ; #FFD471
+  - Caput Mortuum - #5F2A1D ; #90543A ; #C07E56 ; #D9A073
+    **/
+
+/* Black Chocolate */
+.cor1{ color: #181B14;}
+.bgCor1{background-color: #181B14;}
+
+.cor1a{color: #3D4031;}
+.bgCor1a{background-color: #3D4031;}
+
+.cor1b{color: #61654E;}
+.bgCor1b{background-color: #61654E;}
+
+.cor1c{color: #868A6F;}
+.bgCor1c{background-color: #868A6F;}
+
+/* Olive Drab */
+.cor2{ color: #333025;}
+.bgCor2{background-color: #333025;}
+
+.cor2a{color: #5F5E49;}
+.bgCor2a{background-color: #5F5E49;}
+
+.cor2b{color: #8C8C6E;}
+.bgCor2b{background-color: #8C8C6E;}
+
+.cor2c{color: #DDB59B;}
+.bgCor2c{background-color: #DDB59B;}
+
+/* Dark Sienna */
+.cor3{ color: #46231E;}
+.bgCor3{background-color: #46231E;}
+
+.cor3a{color: #7D574A;}
+.bgCor3a{background-color: #7D574A;}
+
+.cor3b{color: #B48B76;}
+.bgCor3b{background-color: #B48B76;}
+
+.cor3c{color: #DDB59B;}
+.bgCor3c{background-color: #DDB59B;}
+
+/* Dark Liver */
+.cor4{ color: #5A4232;}
+.bgCor4{background-color: #5A4232;}
+
+.cor4a{color: #9B8464;}
+.bgCor4a{background-color: #9B8464;}
+
+.cor4b{color: #DBC696;}
+.bgCor4b{background-color: #DBC696;}
+
+.cor4c{color: #F4E3AE;}
+.bgCor4c{background-color: ##F4E3AE;}
+
+/* Kobicha */
+.cor5{ color: #6B3D20;}
+.bgCor5{background-color: #6B3D20;}
+
+.cor5a{color: #AB7A3F;}
+.bgCor5a{background-color: #AB7A3F;}
+
+.cor5b{color: #EAB75F;}
+.bgCor5b{background-color: #EAB75F;}
+
+.cor5c{color: #FFD471;}
+.bgCor5c{background-color: #FFD471;}
+
+/* Caput Mortuum */
+.cor6{ color: #5F2A1D;}
+.bgCor6{background-color: #5F2A1D;}
+
+.cor6a{color: #90543A;}
+.bgCor6a{background-color: #90543A;}
+
+.cor6b{color: #C07E56;}
+.bgCor6b{background-color: #C07E56;}
+
+.cor6c{color: #D9A073;}
+.bgCor6c{background-color: #D9A073;}
